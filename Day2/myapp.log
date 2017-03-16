@@ -1,0 +1,16 @@
+INFO:root:This is info from main
+ERROR:root:Oh no. Got an error
+
+
+INFO:2017/03/15 07:20:03 PM This is info from main
+ERROR:2017/03/15 07:20:03 PM Oh no. Got an error
+
+INFO: 2017/03/15 07:20:47 PM This is info from main
+ERROR: 2017/03/15 07:20:47 PM Oh no. Got an error
+DEBUG: 2017/03/15 07:20:47 PM Hmmm x = 10
+INFO: 2017/03/15 19:21:42  This is info from main
+ERROR: 2017/03/15 19:21:42  Oh no. Got an error
+DEBUG: 2017/03/15 19:21:42  Hmmm x = 10
+INFO: 2017/03/15 19:44:11  This is info from main
+ERROR: 2017/03/15 19:44:11  Oh no. Got an error
+DEBUG: 2017/03/15 19:44:11  Hmmm x = 10
